@@ -1,0 +1,21 @@
+{
+  "name": "javzero-s-theme",
+  "displayName": "JavZero´s Theme",
+  "description": "A nice theme to code without burning your eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JavZero´s Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JavZero´s Theme-color-theme.json"
+      }
+    ]
+  }
+}
