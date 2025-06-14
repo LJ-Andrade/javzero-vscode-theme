@@ -1,6 +1,7 @@
 {
-  "name": "javzero-s-theme",
-  "displayName": "JavZero´s Theme",
+  "name": "javzero",
+  "displayName": "JavZero",
+  "publisher": "javzero",
   "description": "A nice theme to code without burning your eyes.",
   "version": "0.0.1",
   "engines": {
@@ -12,10 +13,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "JavZero´s Theme",
+        "label": "JavZero",
         "uiTheme": "vs-dark",
-        "path": "./themes/JavZero´s Theme-color-theme.json"
+        "path": "./themes/javzero-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LJ-Andrade/javzero-vscode-theme"
+  },
+  "license": "MIT"
 }

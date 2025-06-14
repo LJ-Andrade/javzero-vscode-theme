@@ -1,6 +1,5 @@
 {
 	"name": "JavZero´s Theme",
-	"window.titleBarStyle": "custom",
 	"colors": {
 		"editor.background": "#171B26",
 		"editor.foreground": "#e0e0e0",
